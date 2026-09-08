@@ -1,0 +1,7 @@
+TradingView Lightweight Charts™
+Copyright (с) 2025 TradingView, Inc. https://www.tradingview.com/
+
+The installed v5.2.1 distribution also carries Copyright (c) 2026 TradingView, Inc.
+The chart library is licensed under Apache-2.0. Its license is distributed
+in node_modules/lightweight-charts/LICENSE after npm ci.
+TradingView attribution is displayed below the chart; its attribution logo remains enabled.
